@@ -25,12 +25,13 @@ multiple practice quizzes, each taking ~5 minutes to complete
 
 # Syllabus - What you will learn from this course
 
-WEEK 1: Web Application Development with JavaScript and MongoDB: Course overview,
-        MongoDB, Meteor and reactive data
+WEEK 1: Introduction
 
-WEEK 2: User accounts, packages and methods
+WEEK 2: Starting up with Kotlin
 
-WEEK 3: Publish and subscribe model and MongoDB filters
+WEEK 3: Nullability, Functional Programming
 
-WEEK 4: SimpleSchemas, autoform and code re-organisation
+WEEK 4: Properties, OOP, Conventions
+
+WEEK 5: Sequences, Lambdas with Receiver, Types
 
