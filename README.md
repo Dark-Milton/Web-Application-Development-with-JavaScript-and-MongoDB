@@ -1,5 +1,5 @@
 # Web-Application-Development-with-JavaScript-and-MongoDB
-# By University of London
+
 Web Application Development with JavaScript and MongoDB by University of London
 
 
